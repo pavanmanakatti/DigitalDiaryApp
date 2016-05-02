@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "151859982540",
+    "project_id": "diary2-d340b"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151859982540:android:7fd13b838d3329da",
+        "android_client_info": {
+          "package_name": "com.example.pavan.diary2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151859982540-k5hrgteg3827nh8n190mei3vjpje4js6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pavan.diary2",
+            "certificate_hash": "BCF3ECB5B7A52B46FC867D59AC31073BDC4A468C"
+          }
+        },
+        {
+          "client_id": "151859982540-c672f7lnh9bete06gg22as8eva2ufvuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgDU81MKVc_Z_hFsKvAqn-6yZoPoa8mxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
